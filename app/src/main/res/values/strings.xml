@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github_User_App</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="url"><u>URL</u></string>
+    <string name="tabs_layout">tabs layout</string>
+    <string name="view_pager">view pager</string>
+    <string name="image_avatar">image avatar</string>
+    <string name="button_search">button search</string>
+
+    <string name="tab_1">Followers</string>
+    <string name="tab_2">Following</string>
+    <string name="image_company" />
+    <string name="image_blog" />
+    <string name="github_user_app">GitHub User App</string>
+    <string name="favorite">Favorite</string>
+    <string name="image_link" />
+    <string name="settings">Settings</string>
+    <string name="change_theme">Change theme</string>
+    <string name="title_favorite">favorite</string>
+</resources>
